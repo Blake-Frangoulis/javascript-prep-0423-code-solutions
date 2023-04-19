@@ -14,7 +14,7 @@ After completing this exercise, you should be able to discuss or answer the foll
   The keywords `var`, `let, and `const` are used to declare variables.
 
 - Which characters is a JavaScript variable allowed to begin with?
-  Variables must begin with a letter.
+  Variables must begin with a letter, underscore, or dollar sign.
 
 - What are quotation marks used for in JavaScript?
   Quotes are used to hold strings in JavaScript.

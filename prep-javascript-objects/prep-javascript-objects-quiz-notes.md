@@ -5,8 +5,10 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What data types can object properties hold?
+  Object properties can hold numbers, strings, and booleans.
 
 - Describe the syntax (structure) of object-literals in JavaScript.
+  Object-literals are enveloped by a set of {} and each value is given a name and separated from one another by a comma. Spaces and line breaks are not important.
 
 ## Notes
 

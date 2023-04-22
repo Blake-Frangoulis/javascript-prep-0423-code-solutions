@@ -8,8 +8,10 @@ After completing this exercise, you should be able to discuss or answer the foll
   The five parts of a function definition are the function keyword, an optional name, a comma separated list of zero or more parameters surrounded by parentheses, the code block surrounded by curly brackets, and an optional return statement.
 
 - How do you call a function?
+  You call a function by writing the name of the function and placing () parentheses next to it.
 
 - What is the difference between a parameter and an argument?
+  A parameter is a placeholder that will hold the value for an argument.
 
 ## Notes
 
